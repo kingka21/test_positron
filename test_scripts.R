@@ -8,3 +8,5 @@ summary(cars)
 plot(cars$speed, cars$dist, main = "Cars Dataset",
      xlab = "Speed (mph)", ylab = "Stopping Distance (ft)",
      pch = 19, col = "blue")
+
+     ##changes 

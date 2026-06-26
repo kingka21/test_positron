@@ -10,3 +10,7 @@ plot(cars$speed, cars$dist, main = "Cars Dataset",
      pch = 19, col = "blue")
 
      ##changes 
+# Simple plot from #2
+plot(cars$speed, cars$dist, main = "Cars Dataset",
+     xlab = "Speed (mph)", ylab = "Stopping Distance (ft)",
+     pch = 19, col = "orange")
